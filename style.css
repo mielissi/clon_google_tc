@@ -1,0 +1,140 @@
+
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+body{
+    margin: 0px;
+}
+
+    figure {
+        width: 27px;
+        margin: 0px;
+        padding: 12px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+    
+    #cuadro {
+        width: 29px;
+    }
+
+    footer div{display:flex;
+        justify-content: space-between;
+    }
+
+    ul li{display: inline-block;
+        padding: 15px;;
+    }
+
+    ul {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    nav {
+        display: flex;
+        justify-content: end;
+    }
+
+    main {
+        display: flex;
+        justify-content: center;
+        height: 87vh;
+    }
+
+    #logo {
+        padding-top: 18vh;
+        height: 120px;
+        width: 272;
+        aspect-ratio: auto 272 / 92;
+    }
+
+    #buscador {
+        display: flex;
+        border: 1px solid #dadce0;
+        align-items: center;
+        height: 49px;
+        margin: 25px 0px;
+        width: 650px;
+        border-radius: 25px;
+    }
+
+    #buscador input{
+        flex-grow: 1;
+        border: none;
+        outline: none;
+    }
+
+    article {
+        text-align: center;
+    }
+
+    footer {
+        background: #f2f2f2;
+        font-size: 17px;
+        padding:0
+    }
+    
+    footer p {
+        padding:15px;
+        margin:0px;
+        border-bottom: 1px solid #dadce0;
+    }
+
+    #perfil{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+
+    button {
+        background-color: #f8f9fa;
+        border: 1px solid #f8f9fa;
+        padding: 0 16px;
+        margin: 15px 7px;
+        height: 50px;
+        font-size: 17px;
+        color: #3c4043;
+        border-radius: 4px;
+        margin: 20px 20px 20px 0px;
+    }
+
+    a{
+        text-decoration: none; }
+
+    a:hover{
+        text-decoration: underline;
+    }
+
+    header a {
+        font-size: 17px;
+        color: #1f1f1f;
+    }
+
+    footer a {
+        font-size: 17px;
+        color: #202124;
+        padding: 2px 5px
+    }
+
+    header nav ul{
+        display: flex;
+        align-items: center;
+    }
+
+    button:hover {
+        box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+        background-color: #f8f9fa;
+        border: 1px solid #dadce0;
+        color: #202124;
+    }
+
+    #buscador:hover {    
+        background: #fff;
+        box-shadow: 0 1px 6px rgba(32, 33, 36, .28);
+        border-color: transparent;
+    }
