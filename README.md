@@ -6,10 +6,10 @@ Fue desarrollado con HTML y CSS, buscando poner en practica los conocimientos ad
 
 [Proyecto Desplegado](https://clon-google-exzw.vercel.app/)
 
-##Visualización de mi sitio
+## Visualización de mi sitio
 ![Página de Google](/ClonGoogle/GoogleVis.png)
 
-##Tecnologías 
+## Tecnologías 
 
 *HTML 
 *CSS 
