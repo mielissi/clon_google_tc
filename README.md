@@ -11,8 +11,8 @@ Fue desarrollado con HTML y CSS, buscando poner en practica los conocimientos ad
 
 ## Tecnologías 
 
-*HTML 
-*CSS 
+* HTML 
+* CSS 
 
 ---
 Desarrollado por [Melissa Romero](https://www.linkedin.com/in/karla-melissa-romero-benitez-123679295/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx) 🍎
